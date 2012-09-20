@@ -1,1 +1,13 @@
-#page header
+!- <script type="text/javascript">
+var pages = [
+	'/FrontPage',
+	'/BddExchange'
+];
+
+window.onkeypress = function (ev) {
+	if (ev.charCode === 32) {
+		window.location = pages[pages.indexOf(window.location.pathname) + 1];
+	}
+};
+
+</script> -!
