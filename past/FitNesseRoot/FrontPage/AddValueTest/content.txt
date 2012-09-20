@@ -1,0 +1,7 @@
+!1 My first test
+
+| Add values |
+| v1 | v2 | answer? |
+| 1 | 1 | 2 |
+| 2 | 2 | 4 |
+| 3 | 3 | 6 |
