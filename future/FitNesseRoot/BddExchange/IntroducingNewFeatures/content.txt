@@ -1,0 +1,1 @@
+!img http://files/img/cleaninterface.png !img-r http://files/img/richtext.png
