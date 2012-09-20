@@ -1,17 +1,2 @@
-!1 New layout
-!2 New layout
-!3 New layout
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula nisl, accumsan id elementum vitae, ultrices quis mi. Morbi eu dui quis sem tempor condimentum ut in quam. Maecenas sed velit nibh, in malesuada neque. Duis ac tortor vel dolor ultricies congue. Nulla lacus erat, vehicula eu mattis id, ornare at eros. Proin aliquam orci sit amet orci auctor luctus. Donec vestibulum lorem vitae orci dictum sed rutrum nisl aliquam. Nullam non ante sit amet mi fringilla tincidunt. Curabitur id viverra dolor. Nunc vitae vulputate magna.
-
-
-| table |
-| one | two | three |
-| four | five | six |
-
-!***> Collapsible section
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula  nisl, accumsan id elementum vitae, ultrices quis mi. Morbi eu dui quis  sem tempor condimentum ut in quam. Maecenas sed velit nibh, in malesuada  neque. Duis ac tortor vel dolor ultricies congue. Nulla lacus erat,  vehicula eu mattis id, ornare at eros. Proin aliquam orci sit amet orci  auctor luctus. Donec vestibulum lorem vitae orci dictum sed rutrum nisl  aliquam. Nullam non ante sit amet mi fringilla tincidunt. Curabitur id  viverra dolor. Nunc vitae vulputate magna.
-
-*!
-!path fitnesse.jar
-!define VAR {VAL}
+!2 !c New Layout
+!c !img http://files/img/cleaninterface.png 

@@ -1,1 +1,25 @@
-!img http://files/img/cleaninterface.png !img-r http://files/img/richtext.png
+!-<br style="clear: both"/>-!
+!-<div style="float:right; text-align: center">-!
+!2 Rich text editor
+!img http://files/img/richtext.png
+!-</div><div style="float:left; text-align: center">-!
+!2 New Layout
+!img http://files/img/cleaninterface.png 
+!-</div>-!
+!-<br style="clear: both"/>-!
+
+!**> Notes
+
+* Introduction to new features
+* menu
+* semantic html (page built with velocity templates)
+* system resources from jar file directly (not poluting /files/)
+* Help text + tags
+
+* RTE does not support all
+* support plain old wiki
+* styles
+* tables are easier to edit
+
+
+*!
