@@ -1,0 +1,19 @@
+!*> Notes
+What have we achieved
+- Simplified usage (clean insterface)
+- Improved Readability (in edit mode)
+- enhandced editor
+
+Sell to Management
+- Branding/Pimping
+
+Future
+- Inline editing
+  * edit directly what needs to be changed
+  * included pages also visible during editin
+- Auto Complete 
+  * Scenario's
+  * Fixture methods
+- Improved test output (not one big result page)
+- Template pages
+*!
