@@ -1,12 +1,19 @@
 !- <script type="text/javascript">
 var pages = [
-	'/FrontPage',
-	'/BddExchange'
+	'/BddExchange',
+        '/BddExchange.IntroDuction.ArjanMolenaar',
+        '/BddExchange.IntroDuction.CiriloWortel',
+        '/BddExchange.WhyFitNesse',
+        '/BddExchange.IntroductionToNewTeams.NewDevelopers',
+        '/BddExchange.IntroductionToNewTeams.NewTesters',
+        '/BddExchange.IntroductionToNewTeams.NewAnalysts',
+        '/BddExchange.DeMo',
+        'http://localhost:8002/BddExchange.IntroducingNewFeatures'
 ];
 
 window.onkeypress = function (ev) {
 	if (ev.charCode === 32) {
-		window.location = pages[pages.indexOf(window.location.pathname) + 1];
+		window.location = pages[pages.indexOf(window.location.pathname) + 1] || pages[1];
 	}
 };
 
