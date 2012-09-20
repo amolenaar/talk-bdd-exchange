@@ -1,1 +1,46 @@
-<TODO: image rich text editor>
+!1 Demonstration of how it was
+----
+!* My first Collapsible Section
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Integer iaculis nisl auctor orci aliquam venenatis. Curabitur facilisis, lorem vitae ultrices luctus, augue mi pulvinar dolor, sit amet vestibulum dui tellus facilisis massa. 
+
+In eget nisi mauris. Donec eleifend velit non neque tempus fermentum. Mauris turpis nunc, accumsan nec placerat ut, viverra non eros.
+
+In eget nisi mauris. Donec eleifend velit non neque tempus fermentum. Mauris turpis nunc, accumsan nec placerat ut, viverra non eros.
+*!
+'''My First Table'''
+| table |
+|In eget nisi mauris. Donec eleifend velit non neque tempus fermentum. Mauris turpis nunc, accumsan nec placerat ut, viverra non eros. |
+|Nullam vel dui eget velit venenatis faucibus ut id dui. Etiam sit amet sapien pretium nulla laoreet porta id ac nisi. |
+|Aenean tristique elit ac dolor vulputate at tincidunt dui tincidunt. | 
+| Mauris nisl dolor, ultricies in elementum et, sollicitudin non tellus.|
+| Morbi sit amet libero sit amet leo laoreet fermentum.|
+| Aliquam volutpat risus a ipsum fringilla hendrerit.|
+
+'''My Second Table'''
+| table |
+|Nullam accumsan congue sapien ac viverra. Aenean aliquet nibh vitae ligula ornare ac viverra nibh tristique. | Ut dui neque, adipiscing vel consectetur imperdiet, venenatis eget libero. |
+| Donec at lobortis magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas fringilla sem sed lacinia. Fusce eu luctus mi. | In vitae eros sapien. Sed quis sagittis sapien. Vestibulum vel odio enim. Phasellus condimentum nisl sed magna sodales sit amet tempor augue blandit. |
+| Donec rutrum cursus dolor quis semper. | Morbi rhoncus libero nec nulla pretium vel vehicula sem luctus. |
+
+'''My Third Table'''
+!3 Aenean eget sapien nulla, et venenatis eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+| table |
+| Maecenas pellentesque nunc non augue rutrum ut consequat dolor consequat.  | Donec sed mi at massa cursus porta et eget enim.  | Suspendisse ut vestibulum dui.  | 
+| Nunc tristique interdum sollicitudin. | Pellentesque venenatis rutrum lectus et iaculis.  | Nulla pharetra fermentum est, at accumsan urna tempor sit amet. |
+| Curabitur a odio quis felis imperdiet dapibus at in turpis. | Donec porttitor metus vel nisl tincidunt nec tempor ante luctus.  | Aenean malesuada, lorem id adipiscing vulputate, ipsum velit molestie ligula, at cursus mi turpis sed enim. | In in lorem malesuada metus mattis cursus.|  Sed commodo aliquet lectus, vitae placerat mauris hendrerit egestas. |
+| In ut orci a velit interdum elementum. | Praesent eget ante metus. In non consequat sapien. | Donec eleifend mi vitae mauris imperdiet vehicula. Mauris aliquam, augue et rhoncus varius, nulla nunc laoreet purus, suscipit varius leo risus sed elit. |
+| Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. | Proin euismod tempus facilisis. | Donec eleifend enim nec metus egestas sit amet congue nisl pellentesque. |
+| Curabitur ut massa velit, sit amet sodales nisl.  |Nam ut porttitor mauris. Phasellus rhoncus, nibh at porta eleifend, ante augue malesuada purus, a dignissim dui turpis elementum ipsum.|
+
+
+'''My Fourth Table'''
+| Proin tincidunt ultrices nunc, eget tempor lacus pretium sit amet. Nullam sapien nibh, ultricies pretium scelerisque sed, ultricies ut sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Aliquam leo nisi, molestie tincidunt rhoncus dignissim, vulputate in odio. Aliquam risus dolor, fringilla facilisis fringilla ullamcorper, varius sed nulla. Duis eu pretium lorem. |
+| Pellentesque ante metus, accumsan quis convallis vitae, pretium vel nunc. | 
+| Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. |
+| Proin augue eros, adipiscing vel ultrices non, auctor in leo. |
+|  Phasellus euismod volutpat lectus, eget blandit nisi ornare ac. Praesent sit amet scelerisque elit. |
+| Pellentesque iaculis purus vitae nibh luctus auctor. Nullam id ligula a massa pretium adipiscing eu eu turpis. |
+| Morbi placerat faucibus massa, vel pulvinar eros cursus eget. Pellentesque aliquam luctus viverra. |

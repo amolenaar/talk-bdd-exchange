@@ -1,6 +1,1 @@
-!1 A demo case
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. ''Donec rutrum tincidunt augue'', eu tincidunt purus tincidunt id. Pellentesque ac metus elit. Donec luctus, velit sit amet facilisis suscipit, turpis sapien viverra est, sit amet dictum dolor lacus cursus leo. --Morbi metus leo--, dictum ac pharetra nec, dapibus sed elit. Integer vitae dolor in orci dictum feugiat. Nunc pharetra, ipsum at facilisis varius, libero dolor dignissim justo, a pulvinar mauris leo id nisi. Pellentesque a velit sem, a sollicitudin lacus. Nam cursus iaculis orci ut interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed massa sapien, imperdiet quis accumsan nec, sollicitudin eget massa. Cras auctor, massa non viverra tincidunt, arcu ligula dignissim odio, malesuada pretium eros ipsum at lacus. Mauris commodo fermentum mollis. Donec erat nulla, suscipit in egestas quis, convallis et lacus. Quisque libero nunc, lobortis non sollicitudin quis, posuere et nulla.
-
-| Lorem ipsum |
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
+!img http://files/img/cleaninterface.png !img-r http://files/img/richtext.png
