@@ -1,0 +1,11 @@
+!img http://files/img/fitnesse_big.png
+
+!2 Conceptually one of the better tools
+!2 Good mix of testcases and documentation
+!2 Wiki is potentially easy to use
+!2 Good separation between functional and technical domain
+!2 Java
+!2 No need for separate tool specialists
+!2 Fit's in Agile process
+!2 ==>> !-FitNesse-! is the logical choice
+

@@ -1,0 +1,7 @@
+!2 Convincing Developers relatively easy
+!2 Involving Testers less simple
+!2 Involving Business Analysts practically impossible
+
+!contents
+
+
