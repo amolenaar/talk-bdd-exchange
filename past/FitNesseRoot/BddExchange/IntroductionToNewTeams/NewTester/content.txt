@@ -1,1 +1,1 @@
-!img http://files/images/tester.jpg
+!img http://files/img/tester_small.png

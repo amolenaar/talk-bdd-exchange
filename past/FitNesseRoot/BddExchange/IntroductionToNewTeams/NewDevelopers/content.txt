@@ -1,1 +1,1 @@
-!img http://files/img/fitnesse_big.png
+!img http://files/img/fitnesse_small.png
