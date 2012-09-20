@@ -1,9 +1,10 @@
 !- <script type="text/javascript">
 var pages = [
-	'/FrontPage',
 	'/BddExchange.IntroducingNewFeatures',
 	'/BddExchange.IntroducingNewFeatures.NewLayout',
-	'/BddExchange.IntroducingNewFeatures.RichTextEditor'
+	'/BddExchange.IntroducingNewFeatures.RichTextEditor',
+	'/BddExchange.WrapUp',
+	'/BddExchange.WrapUp.QuestionsAnswers'
 ];
 
 window.onkeypress = function (ev) {

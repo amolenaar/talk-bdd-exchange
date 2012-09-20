@@ -1,4 +1,4 @@
-!1 Demonstration of how it was
+!1 Demo of the Present
 ----
 !* My first Collapsible Section
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
