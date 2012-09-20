@@ -1,5 +1,6 @@
 */FitNesseRoot/FitNesse
 */FitNesseRoot/RecentChanges
+*/FitNesseRoot/ErrorLogs
 */FitNesseRoot/updateDoNotCopyOverList
 */FitNesseRoot/updateList
 */FitNesseRoot/properties
@@ -8,4 +9,5 @@
 */FitNesseRoot/files/javascript
 */FitNesseRoot/files/templates
 */FitNesseRoot/files/images
+*/FitNesseRoot/files/testResults
 *.zip
