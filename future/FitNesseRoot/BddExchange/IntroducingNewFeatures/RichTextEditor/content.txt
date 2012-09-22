@@ -1,2 +1,11 @@
 !2 !c Rich text editor
 !c !img http://files/img/richtext.png
+
+!**> Notes
+
+* RTE does not support all
+* support plain old wiki
+* styles
+* tables are easier to edit
+
+*!
