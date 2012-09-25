@@ -10,7 +10,7 @@ var pages = [
         '/BddExchange.IntroductionToNewTeams.NewAnalysts',
         '/BddExchange.DeMo',
         '/BddExchange.DeMo.DemoContent',
-        'http://localhost:8002/BddExchange.IntroducingNewFeatures'
+        'http://localhost:8002/BddExchange.IntroducingNewFeatures.NewLayout'
 ];
 
 window.onkeypress = function (ev) {
