@@ -1,5 +1,5 @@
-!2 Selecting the Right Tool
-!img http://files/img/toolselection.png
+!2 !c Selecting the Right Tool
+!c !img http://files/img/toolselection.png
 !*> Notes
 conceptually 1 of the best tools
 good mix of testcases & documentation

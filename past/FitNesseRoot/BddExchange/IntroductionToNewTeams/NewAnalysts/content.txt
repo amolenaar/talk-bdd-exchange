@@ -1,2 +1,2 @@
-!1 !-Introducing FitNesse to New Teams-!
-!img http://files/img/no-entry_small.png
+!c !1 !-Introducing FitNesse to Business Analysts-!
+!c !img http://files/img/no-entry_small.png

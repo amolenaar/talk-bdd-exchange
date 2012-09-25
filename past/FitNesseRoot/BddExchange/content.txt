@@ -1,5 +1,5 @@
-!2 Making !-FitNesse-! available to Humans
-!img http://files/img/availabletohumans.png
+!c !1 Making !-FitNesse-! available to Humans
+!c !img http://files/img/availabletohumans.png
 
 !*> Notes
 !contents -R3 -g -h

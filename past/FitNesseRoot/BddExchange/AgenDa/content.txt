@@ -1,10 +1,10 @@
-!-<div style="font-size: 30pt;line-height:150%">-!AGENDA
+!1 !c AGENDA
+!-<div style="font-size: 20pt;line-height:150%; margin: 0 auto">-!
 1. Introduction
 2. !-Why FitNesse-!
 3. Introduction to New Teams
 4. Demo of the Past
 5. Required Changes
 6. Demo of the Present
-7. The Future
-Wrap Up
+7. Wrap Up
 !-</div>-!

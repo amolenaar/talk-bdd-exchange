@@ -1,2 +1,2 @@
-!1 !-Introducing FitNesse to New Teams-!
-!img http://files/img/tester_small.png
+!1 !c !-Introducing FitNesse to Testers-!
+!c !img http://files/img/tester_small.png
