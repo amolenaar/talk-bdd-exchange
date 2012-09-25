@@ -1,1 +1,2 @@
 !1 !c Introduction to Cirilo Wortel
+!c !img http://files/img/cirilowortel.png
