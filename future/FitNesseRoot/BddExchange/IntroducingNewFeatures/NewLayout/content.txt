@@ -1,5 +1,5 @@
-!2 !c New Layout
-!c !img http://files/img/cleaninterface.png 
+!2 !c Clean Interface
+!c !img http://files/img/cleancode.png 
 
 !**> Notes
 

@@ -1,4 +1,4 @@
-!1 Demonstration of how it is
+!1 !c Demonstration of how it is
 ----
 !*** My first Collapsible Section
 

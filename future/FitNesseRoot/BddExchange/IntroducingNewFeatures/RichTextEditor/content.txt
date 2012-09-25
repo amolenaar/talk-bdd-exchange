@@ -1,5 +1,5 @@
-!2 !c Rich text editor
-!c !img http://files/img/richtext.png
+!1 !c Rich text editor
+!c !img http://files/img/richpig.png
 
 !**> Notes
 
