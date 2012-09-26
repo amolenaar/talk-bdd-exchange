@@ -1,8 +1,9 @@
 !- <script type="text/javascript">
 var pages = [
-	'/BddExchange.IntroducingNewFeatures.NewLayout',
-	'/BddExchange.IntroducingNewFeatures.RichTextEditor',
-	'/BddExchange.IntroducingNewFeatures.RichTextEditorDemo',
+	'/BddExchange.CleanInterface',
+	'/BddExchange.RichTextEditor',
+	'/BddExchange.DeMo',
+	'/BddExchange.DemoContent',
 	'/BddExchange.WrapUp',
 	'/BddExchange.WrapUp.QuestionsAnswers'
 ];
