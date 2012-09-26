@@ -3,7 +3,6 @@
 http://fitnesse.org
 http://xebia.github.com/Xebium/
 http://xebia.com
-http://gaphor.org
 @sietstweets
 !-</div>-!
 
