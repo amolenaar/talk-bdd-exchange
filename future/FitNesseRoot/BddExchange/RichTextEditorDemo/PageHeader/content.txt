@@ -1,0 +1,8 @@
+!include -seamless .PageHeader
+!- <style type="text/css">
+#art_niche {
+   background-image: url(/files/img/richpig.png);
+   background-size: 90px 90px;
+   height: 90px;
+   width: 90px;
+} </style> -!
