@@ -1,1 +1,2 @@
-!1 !c Introduction to Arjan Molenaar
+!2 !c Introduction to Arjan Molenaar
+!c !img http://files/img/arjanmolenaar.png
