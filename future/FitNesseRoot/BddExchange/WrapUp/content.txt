@@ -2,7 +2,6 @@
 !-<div style="font-size: 20pt;line-height:150%; text-align:center">-!http://fitnesse.org
 http://xebia.github.com/Xebium/
 http://xebia.com
-http://gaphor.org
 @sietstweets
 !-</div>-!
 
