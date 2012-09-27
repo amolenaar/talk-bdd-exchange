@@ -3,7 +3,7 @@ var pages = [
 	'/BddExchange.CleanInterface',
 	'/BddExchange.RichTextEditor',
 	'/BddExchange.DeMo',
-	'/BddExchange.DemoContent',
+	'/BddExchange.WrapUp.SellToManagement',
 	'/BddExchange.WrapUp',
 	'/BddExchange.WrapUp.QuestionsAnswers'
 ];

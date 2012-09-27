@@ -9,4 +9,5 @@
 * system resources from jar file directly (not poluting /files/)
 * Help text + tags
 
+!contents -R3 -g -p -f -h
 *!

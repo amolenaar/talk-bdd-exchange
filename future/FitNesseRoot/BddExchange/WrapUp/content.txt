@@ -1,6 +1,5 @@
 !1 !c Wrap Up
-!-<div style="font-size: 20pt;line-height:150%; margin: 0 auto">-!
-http://fitnesse.org
+!-<div style="font-size: 20pt;line-height:150%; text-align:center">-!http://fitnesse.org
 http://xebia.github.com/Xebium/
 http://xebia.com
 http://gaphor.org
