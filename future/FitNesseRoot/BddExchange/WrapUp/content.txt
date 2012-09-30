@@ -1,9 +1,18 @@
 !1 !c Wrap Up
+
+
+
 !-<div style="font-size: 20pt;line-height:150%; text-align:center">-!http://fitnesse.org
-http://xebia.github.com/Xebium/
+amolenaar@xebia.com
+cwortel@xebia.com
 http://xebia.com
+http://xebia.github.com/Xebium/
 @sietstweets
 !-</div>-!
+
+
+
+
 
 !*> Notes
 What have we achieved

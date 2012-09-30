@@ -1,3 +1,3 @@
 !1 BDD Exchange
 
-!contents -R2 -g -p -f -h
+!contents -R1 -g -h
