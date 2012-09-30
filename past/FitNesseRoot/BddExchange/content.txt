@@ -1,6 +1,9 @@
 !c !1 Making !-FitNesse-! available to Humans
 !c !img http://files/img/availabletohumans.png
 
+
 !*> Notes
+wie gebruikt er fitnesse in de zaal?
+wie heeft er kennis van?
 !contents -R3 -g -h
 *!

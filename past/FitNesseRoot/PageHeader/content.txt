@@ -1,9 +1,9 @@
 !- <script type="text/javascript">
 var pages = [
 	'/BddExchange',
-	'/BddExchange.AgenDa',
         '/BddExchange.IntroDuction.ArjanMolenaar',
         '/BddExchange.IntroDuction.CiriloWortel',
+	'/BddExchange.AgenDa',
         '/BddExchange.WhyFitNesse',
         '/BddExchange.IntroductionToNewTeams.NewDevelopers',
         '/BddExchange.IntroductionToNewTeams.NewTesters',

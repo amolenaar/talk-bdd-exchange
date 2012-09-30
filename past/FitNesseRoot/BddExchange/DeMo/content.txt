@@ -1,2 +1,9 @@
 !1 !c Demo of the Past
 !c !img http://files/img/startdemo.png
+!*> Notes
+New page
+add some text (save to check)
+add a table
+refactor (rename/move etc)
+add properties (help text)
+*!
