@@ -1,11 +1,11 @@
 !2 !c Clean Interface
-!c !img http://files/img/cleancode.png 
+!c !img http://files/img/cleancode.png
+!***> Notes
 
-!**> Notes
+ * Introduction to new features
+ * menu
+ * semantic html (page built with velocity templates)
+ * system resources from jar file directly (not poluting /files/)
+ * Help text + tags
 
-* Introduction to new features
-* menu
-* semantic html (page built with velocity templates)
-* system resources from jar file directly (not poluting /files/)
-* Help text + tags
 *!

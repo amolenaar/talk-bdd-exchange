@@ -3,11 +3,13 @@
 	<AddChild/>
 	<Edit/>
 	<Files/>
+	<Help>this is my new test</Help>
 	<Properties/>
 	<Prune/>
 	<RecentChanges/>
 	<Search/>
 	<Static/>
+	<Suites>bddx</Suites>
 	<Versions/>
 	<WhereUsed/>
 </properties>

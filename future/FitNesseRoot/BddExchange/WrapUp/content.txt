@@ -3,11 +3,13 @@
 
 
 !-<div style="font-size: 20pt;line-height:150%; text-align:center">-!http://fitnesse.org
+http://github.com/unclebob/fitnesse
+
 amolenaar@xebia.com
-cwortel@xebia.com
+cwortel@xebia.com (@sietstweets)
+
 http://xebia.com
 http://xebia.github.com/Xebium/
-@sietstweets
 !-</div>-!
 
 
